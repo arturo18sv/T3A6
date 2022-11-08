@@ -9,8 +9,19 @@ desarrollar una solución que permita ingresar los datos de un trabajador y nos 
 ## ETAPA 2 ESPECIFICACIONES:
 
 entrada: -empleado: nombre, apellidos, curp, email, RFC, salario, años de trabajar, tipo de contrato -sucursal proceso: -calcular el ISR y crear un bono por tiempo de trabajar salida:
-
-
+~~~ 
+----------------------------------------------------------
+Nombre:
+Apellidos:
+Curp:
+Email:
+RFC:
+Sueldo Base:
+Sueldo Neto:
+Bono por Antiguedad
+ISR:
+----------------------------------------------------------
+~~~
 
 ## ETAPA 3 DISEÑO DE LA SOLUCION: 
 ![](https://github.com/juanMaAM/T3A6/blob/main/T3A6.png)
